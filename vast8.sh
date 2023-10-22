@@ -27,8 +27,8 @@ sudo apt -y install python3-pip
 sleep 5
 echo "---------------------------"
 
-# Clone the repository and build the project https://github.com/shanhaicoder/XENGPUMiner.git
-git clone https://github.com/Jayhowl/XENGPUMiner.git
+# Clone the repository and build the project https://github.com/Jayhowl/XENGPUMiner.git
+git clone https://github.com/shanhaicoder/XENGPUMiner.git
 sleep 5
 echo "---------------------------"
 
